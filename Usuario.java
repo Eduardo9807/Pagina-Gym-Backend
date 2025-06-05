@@ -3,4 +3,7 @@ public class Usuario {
     int edad= 15;
     String nombre ="eduardo";
     byte c;
+    //hola mundo, porfavor funciona
+    String saludo= "hola";
+
 }
